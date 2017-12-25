@@ -6,7 +6,8 @@ Godot从零到一
 
 -----
 ## 1. Practice_1_HelloWorld
-* 1.1 Hello_World
+* 1.1 创建一个显示文字的标签
+* 1.2 在控制台输出内容
 
 
 
